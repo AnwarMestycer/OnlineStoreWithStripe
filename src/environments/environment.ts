@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  STORE_BASE_API :'https://fakestoreapi.com'
+  BASE_API :'https://fakestoreapi.com'
 };
 
 /*

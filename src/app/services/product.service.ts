@@ -11,7 +11,7 @@ import { Product } from "../models/product.model";
 })
 
 export class ProductService{
-    url = environment.STORE_BASE_API
+    url = environment.BASE_API
     constructor( private http : HttpClient){
 
     }
